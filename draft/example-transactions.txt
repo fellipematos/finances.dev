@@ -1,0 +1,19 @@
+FINANCE$.dev
+Gerencie seus gastos
+--------------------
+
+#RENDA
+ID, DATA, OPERAÇÃO, DESCRIÇÃO, VALOR
+(1, '12032022', 'entrada', 'teste', 1200.0)
+
+----------------------------------------
+
+#DESPESAS
+ID, DATA, OPERAÇÃO, DESCRIÇÃO, VALOR
+(2, '15052022', 'saida', 'boleto', 200.0)
+
+----------------------------------------
+
+Saldo Total: 1000.0
+--------------------
+Total de Operações: 2
