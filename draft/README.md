@@ -1,6 +1,7 @@
 # FINANCE$.dev
 
 Tem como funcionalidade gerenciar seus gastos
+
 Branch: Draft - Apenas para testes e aprendizado, não foi aplicado nenhum filtro, de input e output dos dados.
 
 ## Iniciando aplicação em modo texto - CLI
@@ -13,6 +14,7 @@ cd finances
 ```
 
 Crie e ative seu ambiente virtual, utilizei o VirtualEnv.
+
 [Veja a documentação da biblioteca](https://virtualenv.pypa.io/en/latest/), para criar e ativar o ambiente no Windows.
 
 ```bash
@@ -33,8 +35,10 @@ Clone o repositório do Github
 git clone URLCOLAR
 ```
 
-Inicie o app.py
+Inicie a aplicação
 
 ```bash
 python draft/finances.py
 ```
+
+Utilize a aplicação ... 
