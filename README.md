@@ -4,7 +4,7 @@ Tem como funcionalidade gerenciar seus gastos
 
 ## DRAFT - rascunho do projeto
 
-WARNING: MODE GO HORSE ACTIVATE
+WARNING: GO HORSE MODE ACTIVATE
 
 Draft - Apenas para testes e aprendizado, não foi aplicado nenhum filtro, de input e output dos dados.
 
