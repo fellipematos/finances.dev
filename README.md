@@ -35,7 +35,7 @@ pip install peewee
 Clone o repositório do Github
 
 ```bash
-git clone URLCOLAR
+git clone https://github.com/fellipematos/finances.dev
 ```
 
 Inicie o app.py
