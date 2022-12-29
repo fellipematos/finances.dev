@@ -1,3 +1,6 @@
+
+![enter image description here](img/go-horse.svg)
+
 # FINANCE$.dev
 
 Tem como funcionalidade gerenciar seus gastos
